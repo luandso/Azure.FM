@@ -59,19 +59,18 @@ h3 {
 }
 
 #fone{
-    width: 50px; /* Defina a largura desejada */
-    height: 45px; /* Defina a altura desejada */
-    position: absolute; /* Define a posição absoluta para controlar a posição */
-    top: 30px; /* Define a posição vertical desejada em relação ao elemento pai */
+    width: 50px; 
+    height: 45px; 
+    position: absolute; 
+    top: 30px; 
     left: 150px;
-    margin-left: 1660px; /* Define a posição horizontal desejada em relação ao elemento pai */
+    margin-left: 1660px; 
 
   }
 .linha{
     background: rgba(45, 119, 231, 0.80);
-    height: 950px; /* Define a altura da linha (pode ser ajustada conforme necessário) */
-    position: relative; /* Define a posição absoluta para controlar a posição */
-     /* Define a posição no topo da página */
+    height: 950px; 
+    position: relative; 
     width: 1px;
     left: 68px;
     margin-top: -31px;
@@ -88,9 +87,9 @@ h3 {
 
 .search-container {
     display: flex;
-    background-color: #2D77E7; /* Cor de fundo desejada */
+    background-color: #2D77E7; 
     padding: 10px;
-    border-radius: 40px; /* Borda arredondada */
+    border-radius: 40px; 
     position:absolute;
     margin-left: 680px;
     margin-top: 200px;
@@ -99,7 +98,7 @@ h3 {
 }
 
 .search-box {
-    width: 2800px; /* Definindo a largura da caixa de pesquisa */
+    width: 2800px; 
     padding: 10px;
     border: none;
     border-radius: 100px;
@@ -107,7 +106,7 @@ h3 {
 
 .search-button {
     background-image: 
-    color: #fff; /* Cor do texto do botão */
+    color: #fff; 
     border: none;
     padding: 5px 10px;
     border-radius: 5px;
