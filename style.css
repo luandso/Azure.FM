@@ -47,6 +47,7 @@ h1 {
     margin-top: -5px;
     font-size: 45px;
     font-family: 'K2D';
+    text-shadow: 4px 4px 10px rgba(0,0,0,0.31);
     ;
 }
 h3 {
@@ -55,6 +56,7 @@ h3 {
     left: 1%;
     font-family: 'K2D';
     margin-top: -5px;
+    text-shadow: 4px 4px 10px rgba(0,0,0,0.31);
 
 }
 
@@ -102,13 +104,14 @@ h3 {
     padding: 10px;
     border: none;
     border-radius: 100px;
+    background-color: #5191f0; 
 }
 
 .search-button {
-    background-image: 
-    color: #fff; 
+    background-color: #5191f0;
     border: none;
     padding: 5px 10px;
     border-radius: 5px;
     cursor: pointer;
+    margin-left: 5px;
 }
