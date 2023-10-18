@@ -21,16 +21,7 @@ header {
     margin-left;
 }
 
-main {
-    
-    max-width: 700px;
-    margin: 20px auto;
-    padding: 20px;
-    position: top;
-    background-color: red;
 
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
 
 footer {
     text-align: center;
@@ -48,7 +39,8 @@ h1 {
     font-size: 45px;
     font-family: 'K2D';
     text-shadow: 4px 4px 10px rgba(0,0,0,0.31);
-    ;
+    margin-left: 15px;
+
 }
 h3 {
     font-size: 45px;
@@ -57,8 +49,8 @@ h3 {
     font-family: 'K2D';
     margin-top: -5px;
     text-shadow: 4px 4px 10px rgba(0,0,0,0.31);
-
 }
+
 
 #fone{
     width: 50px; 
@@ -71,20 +63,21 @@ h3 {
   }
 .linha{
     background: rgba(45, 119, 231, 0.80);
-    height: 950px; 
+    height: 933px; 
     position: relative; 
     width: 1px;
-    left: 68px;
+    left: 53px;
     margin-top: -31px;
 }
-.degrade{
-    height: 100px;
-    width: 100px;
-    background-color: #00ff00;
+
+.quadrado{
+    background-color: #132238;
+    height: 630px;
+    width: 1200px;
+    margin-top: -740px;
+    margin-left: 400px;
 }
-.barra{
-   
-}
+
 
 
 .search-container {
@@ -94,7 +87,7 @@ h3 {
     border-radius: 40px; 
     position:absolute;
     margin-left: 680px;
-    margin-top: 200px;
+    margin-top: 80px;
     width: 600px;
     height: 30px;
 }
